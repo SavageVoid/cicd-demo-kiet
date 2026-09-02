@@ -6,3 +6,4 @@ if [ "$usage" -gt 94 ]; then
 else
     echo "OK: disk is ${usage}% used"
     exit 0
+fi
